@@ -1,1 +1,1 @@
-# rimfrost-service-kundbehovsflode-asyncapi
+# rimfrost-service-handlaggning-asyncapi
