@@ -1,3 +1,9 @@
+## 0.1.3 (2026-03-03)
+
+### Bug Fixes
+
+-  Bump to trigger release flow ([9e8b1](https://github.com/Forsakringskassan/rimfrost-service-handlaggning-asyncapi/commit/9e8b1fb106f122c) Lars Persson)  
+
 ## 0.1.2 (2026-03-03)
 
 ### Bug Fixes
