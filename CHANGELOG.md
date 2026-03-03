@@ -1,3 +1,10 @@
+## 0.1.2 (2026-03-03)
+
+### Bug Fixes
+
+-  Rename kundbehovsflode to handlaggning in README.md ([565e7](https://github.com/Forsakringskassan/rimfrost-service-kundbehovsflode-asyncapi/commit/565e72c9ced6186) Lars Persson)  
+-  Rename kundbehovsflode to handlaggning ([e1370](https://github.com/Forsakringskassan/rimfrost-service-kundbehovsflode-asyncapi/commit/e137081cb7ef63d) Lars Persson)  
+
 ## 0.1.1 (2025-12-05)
 
 ### Bug Fixes
