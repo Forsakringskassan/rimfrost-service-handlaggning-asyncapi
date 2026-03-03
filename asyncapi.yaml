@@ -1,33 +1,33 @@
 asyncapi: 3.0.0
 info:
-  title: Kundbehovsflöde Async API
+  title: Handläggning Async API
   version: 1.0.0
-  description: Kundbehovsflöde Async API för att skicka meddelande när ett flöde är klart
+  description: Handläggning Async API för att skicka meddelande när ett flöde är klart
 
 channels:
-  kundbehovsflode.done:
+  handlaggning.done:
     messages:
-      KundbehovsflodeDoneMessage:
-        $ref: '#/components/messages/KundbehovsflodeDoneMessage'
+      HandlaggningDoneMessage:
+        $ref: '#/components/messages/HandlaggningDoneMessage'
 
 operations:
-  KundbehovsflodeDoneMessage:
+  HandlaggningDoneMessage:
     action: receive
     channel:
-      $ref: '#/channels/kundbehovsflode.done'
+      $ref: '#/channels/handlaggning.done'
     messages:
-      - $ref: '#/channels/kundbehovsflode.done/messages/KundbehovsflodeDoneMessage'
-    summary: Konsumerar event när ett kundbehovsflöde är klart
+      - $ref: '#/channels/handlaggning.done/messages/HandlaggningDoneMessage'
+    summary: Konsumerar event när handläggning är klar
 components:
   messages:
-    KundbehovsflodeDoneMessage:
+    HandlaggningDoneMessage:
       payload:
-        title: KundbehovsflodeDoneMessage
+        title: HandlaggningDoneMessage
         type: object
         required:
-          - kundbehovsflodeId
+          - handlaggningId
         properties:
-          kundbehovsflodeId:
+          handlaggningId:
             type: string
             format: uuid
-            description: Unikt ID som identifierar kundbehovsflödet
+            description: Unikt ID som identifierar handläggningsärendet
