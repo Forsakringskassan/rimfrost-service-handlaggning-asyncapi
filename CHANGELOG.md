@@ -8,6 +8,16 @@
 
 -  release 1.0 ([0ac1f](https://github.com/Forsakringskassan/rimfrost-service-handlaggning-asyncapi/commit/0ac1f21f833a252) Lars Persson)  
 
+## 1.0.0 (2026-04-28)
+
+### Breaking changes
+
+-  release 1.0 ([0ac1f](https://github.com/Forsakringskassan/rimfrost-service-handlaggning-asyncapi/commit/0ac1f21f833a252) Lars Persson)  
+
+### Features
+
+-  release 1.0 ([0ac1f](https://github.com/Forsakringskassan/rimfrost-service-handlaggning-asyncapi/commit/0ac1f21f833a252) Lars Persson)  
+
 ## 0.1.3 (2026-03-03)
 
 ### Bug Fixes
