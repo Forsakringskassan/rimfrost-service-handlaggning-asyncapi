@@ -8,26 +8,6 @@
 
 -  release 1.0 ([0ac1f](https://github.com/Forsakringskassan/rimfrost-service-handlaggning-asyncapi/commit/0ac1f21f833a252) Lars Persson)  
 
-## 1.0.0 (2026-04-28)
-
-### Breaking changes
-
--  release 1.0 ([0ac1f](https://github.com/Forsakringskassan/rimfrost-service-handlaggning-asyncapi/commit/0ac1f21f833a252) Lars Persson)  
-
-### Features
-
--  release 1.0 ([0ac1f](https://github.com/Forsakringskassan/rimfrost-service-handlaggning-asyncapi/commit/0ac1f21f833a252) Lars Persson)  
-
-## 1.0.0 (2026-04-28)
-
-### Breaking changes
-
--  release 1.0 ([0ac1f](https://github.com/Forsakringskassan/rimfrost-service-handlaggning-asyncapi/commit/0ac1f21f833a252) Lars Persson)  
-
-### Features
-
--  release 1.0 ([0ac1f](https://github.com/Forsakringskassan/rimfrost-service-handlaggning-asyncapi/commit/0ac1f21f833a252) Lars Persson)  
-
 ## 0.1.3 (2026-03-03)
 
 ### Bug Fixes
@@ -47,10 +27,6 @@
 
 -  typo kundbehovsflodeDoneMessage ([c41e0](https://github.com/Forsakringskassan/rimfrost-service-kundbehovsflode-asyncapi/commit/c41e0fd864a0a12) Ulf Slunga)  
 
-# rimfrost-service-kundbehovsflode-asyncapi changelog
-
-Changelog of rimfrost-service-kundbehovsflode-asyncapi.
-
 ## 0.1.0 (2025-11-26)
 
 ### Bug Fixes
@@ -64,5 +40,3 @@ Changelog of rimfrost-service-kundbehovsflode-asyncapi.
 
 
 [a8eb6](https://github.com/Forsakringskassan/rimfrost-service-kundbehovsflode-asyncapi/commit/a8eb6be0fcfa354) davidsoderberg-ductus *2025-11-26 07:07:13*
-
-
